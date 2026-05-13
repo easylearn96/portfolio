@@ -1,0 +1,95 @@
+M U H AM M A D  U M A R  
+MERN Stack Developer  ·  Full-Stack Engineer 
+📞 0322-1490791   ✉ mian.umarhafeeq78692@gmail.com   📍 Lahore, Pakistan 
+🔗 www.linkedin.com/in/muhammad-umar-2a59aa272 
+ 
+P R O F E S S I O N A L  S U M M A R Y  
+Results-driven MERN Stack Developer with 1+ year of hands-on experience building scalable, production-grade full-stack web 
+applications. Proficient in MongoDB, Express.js, React, and Node.js with a strong foundation in RESTful API design, agile 
+development, and UI/UX. Proven track record of delivering real-world projects from concept to deployment — ready to contribute 
+immediately in an onsite team environment. 
+ 
+C O R E  T E C H N I C A L  S K I L L S  
+ 
+React.js 
+ 
+Node.js 
+ 
+Express.js 
+ 
+ 
+MongoDB 
+ 
+JavaScript ES6+ 
+ 
+RESTful APIs 
+ 
+ 
+Git & GitHub 
+ 
+Next.js 
+ 
+Tailwind CSS 
+ 
+ 
+P R O F E S S I O N A L  E X P E R I E N C E  
+MERN Stack Developer  ·  SmartAI Soft 
+Aug 2024 – Feb 2025 
+• Built and maintained full-stack features for Style Dash, a live e-commerce platform serving real users 
+• Designed MongoDB schemas and engineered Node.js/Express REST APIs for seamless data management 
+• Delivered responsive, CRUD-based React.js modules with clean component architecture 
+• Actively participated in agile sprints, code reviews, and cross-functional team standups 
+MERN Stack Intern  ·  Developers Hub 
+Jun 2024 – Aug 2024 
+• Built and tested modular React.js components integrated with RESTful backend APIs 
+• Gained practical experience in MongoDB schema design and Node.js/Express routing 
+• Collaborated in agile team environment with regular peer code reviews and sprint cycles 
+Computer Instructor  ·  Perfect Academy, Lahore 
+Jan 2022 – Mar 2024 
+• Taught MS Office Suite and computer fundamentals to secondary-level students 
+• Prepared students for board-level examinations and built their digital literacy 
+ 
+K E Y  P R O J E C T S  
+ 
+Style Dash 
+E-commerce fashion platform built at SmartAI Soft — React front-end, Node/Express backend, MongoDB 
+Banking App 
+Full MERN stack banking application with complete CRUD operations (semester project) 
+Procteo 
+MERN stack patient management system streamlining daily workflows for a medical practice 
+Lemoz 
+MERN stack rental platform connecting limousine owners with customers for booking management 
+Photo Converter 
+MERN stack utility that converts images and auto-formats them to passport-size for printing 
+AI Glasses (FYP) 
+Final Year Project — AI-powered assistive glasses designed to aid visually impaired individuals 
+ 
+E D U C A T I O N  
+ 
+Degree / Institution 
+ 
+Grade 
+Year 
+Bachelor of Computer Science 
+Lahore Garrison University 
+3.56 CGPA 
+2022–2026 
+FSC Pre-Engineering 
+Garrison College For Boys 
+1st Div 
+2021 
+Matriculation 
+Garrison Academy Tufail Shaheed 
+1st Div 
+2019 
+ 
+C E R T I F I C A T I O N S  &  C O U R S E S  
+ 
+• ML/DL Course — NAVTTC (2025, Grade: A) 
+• Web Development — Perfect Academy (2021, Grade: A) 
+• HTML Course — NCC Computer College (2022, Grade: A) 
+• Graphics Design & Video Editing — Perfect Academy (2017, 
+Grade: A) 
+• MS Office & English Speaking — NCC Computer College 
+ 
+References available upon request  ·  Open to onsite opportunity in Johar Town, Lahore 

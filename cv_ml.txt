@@ -1,0 +1,101 @@
+Muhammad Umar 
+Data Scientist  |  ML & Python Developer 
+📞 +92 322 149 0791   ✉ mian.umarhafeeq78692@gmail.com 
+📍 Lahore Cantt, Pakistan 
+🔗 linkedin.com/in/muhammad-umar-2a59aa272 
+C A R E E R  O B J E C T I V E  
+AI/ML practitioner with hands-on experience in Python, deep learning, and full-stack development. Passionate about 
+building intelligent systems that solve real-world problems — from predictive models to production web apps. Seeking a 
+challenging role where I can contribute cutting-edge solutions and continue growing as a technologist. 
+E X P E R I E N C E  
+Python Developer  •  SmartAI Soft 
+Aug 2025 – Feb 2026 
+▸ Built Style Dash, an AI-powered fashion web app, handling both backend APIs and frontend with React.js & 
+PostgreSQL 
+▸ Participated in agile sprints, code reviews, and delivered a capstone CRUD project with responsive UI 
+▸ Developed and deployed a full WordPress e-commerce site (Luxora.global) with Elementor Pro and payment 
+gateway integration 
+MERN Stack Intern  •  Developers Hub 
+Jun 2025 – Aug 2025 
+▸ Built modular React.js components connected to RESTful APIs; designed MongoDB schemas and Node.js routes 
+▸ Delivered capstone project with full CRUD operations in a 2-month intensive internship 
+Computer Instructor  •  Perfect Academy, Lahore 
+Jan 2022 – Mar 2024 
+▸ Taught MS Office, computer theory, and practical labs to Grade 10 students 
+▸ Helped students build foundational digital literacy and exam readiness 
+P R O J E C T S  
+▸ AI-Based Glasses for Visually Impaired (FYP) — Real-time object detection & voice feedback for accessibility 
+▸ Style Dash — AI model for fashion style recommendation (React.js + PostgreSQL) 
+▸ Photo Converter — MERN stack app to convert and print passport-size photos 
+▸ Banking App — Semester project: full CRUD banking system built with MERN stack 
+▸ Luxora.global — WordPress e-commerce site with custom payment gateway integration 
+E D U C A T I O N  
+Degree 
+Institution 
+Grade 
+Year 
+Bachelor of Computer Science 
+Lahore Garrison University 
+3.56 CGPA 
+2022–
+2026 
+FSC – Pre Engineering 
+Garrison College For Boys 
+1st Division 
+2021 
+Matric 
+Garrison Academy Tufail Shaheed 
+1st Division 
+2019 
+ 
+ 
+C O U R S E S  &  C E R T I F I C A T I O N S  
+Course 
+Institution 
+Grade 
+Year 
+ML / Deep Learning 
+NAVTTC 
+A 
+2025 
+Web Development 
+Perfect Academy 
+A 
+2021 
+HTML 
+NCC Computer College 
+A 
+2022 
+MS Office 
+NCC Computer College 
+A 
+2020 
+Graphics Designing 
+Perfect Academy 
+A 
+2017 
+Video Editing 
+Perfect Academy 
+A 
+2017 
+English Speaking 
+NCC Computer College 
+A 
+2019 
+T E C H N I C A L  S K I L L S  
+Languages 
+Python, JavaScript, HTML, CSS 
+AI / ML 
+TensorFlow, Keras, Scikit-learn, OpenCV, NLP, Deep Learning 
+Web (MERN) 
+React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs 
+CMS 
+WordPress, Elementor Pro, WooCommerce, Payment Gateways 
+Dev Tools 
+VS Code, Google Colab, Git, Postman 
+Design 
+Adobe Photoshop, CorelDRAW, Figma, Canva, Adobe Premiere Pro, After Effects 
+Other 
+MS Office Suite, Fiverr & Upwork, InPage Urdu, Audacity 
+I N T E R E S T S  &  H O B B I E S  
+📸 Wildlife & Bird Photography   🎬 Videography   📚 Reading   🏑 Hockey 
