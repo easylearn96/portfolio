@@ -8,6 +8,7 @@ import lemoz from './assets/lemoz.png'
 import photoConverter from './assets/photo_convertor.png'
 import bankingApp from './assets/banking_app.png'
 import luxoraImg from './assets/luxora .png'
+import thunderBulls from './assets/thundar_bulls.png'
 import cvFile from './assets/Muhammad_Umar.pdf'
 
 /* ── Typewriter Effect ── */
@@ -390,6 +391,8 @@ export default function App() {
                   <img src={bankingApp} alt={p.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }} />
                 ) : p.title === "Luxora.global" ? (
                   <img src={luxoraImg} alt={p.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }} />
+                ) : p.title.toLowerCase().includes("thunder") ? (
+                  <img src={thunderBulls} alt={p.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }} />
                 ) : (
                   <span style={{ position: 'relative', zIndex: 1 }}>{EMOJIS[p.category] || '💡'}</span>
                 )}

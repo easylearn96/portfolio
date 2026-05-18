@@ -100,6 +100,14 @@ export const projects = [
     image: "luxora .png",
     featured: false,
   },
+  {
+    title: "Thunder Bulls",
+    description: "Full MERN stack project delivered ahead of schedule after a month of dedicated development.",
+    tags: ["MongoDB", "Express", "React", "Node.js"],
+    category: "Full Stack",
+    image: "thundar_bulls.png",
+    featured: false,
+  },
 ];
 
 export const experience = [
