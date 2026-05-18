@@ -107,6 +107,7 @@ export const projects = [
     category: "Full Stack",
     image: "thundar_bulls.png",
     featured: false,
+    link: "https://easylearn96.github.io/thunder_bulls/",
   },
 ];
 
