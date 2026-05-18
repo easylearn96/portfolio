@@ -63,7 +63,12 @@ export default function Projects() {
                 ) : p.title === "Luxora.global" ? (
                   <img src={luxoraImg} alt={p.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }} />
                 ) : p.title.toLowerCase().includes("thunder") ? (
-                  <img src={thunderBulls} alt={p.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }} />
+                  <div 
+                    onClick={() => window.open("https://easylearn96.github.io/thunder_bulls/", "_blank")}
+                    style={{ cursor: 'pointer', width: '100%', height: '100%' }}
+                  >
+                    <img src={thunderBulls} alt={p.title} style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top' }} />
+                  </div>
                 ) : (
                   <span>{EMOJIS[p.category] || '💡'}</span>
                 )}
